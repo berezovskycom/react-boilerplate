@@ -16,6 +16,7 @@ Nice and clean boilerplate to work with react, redux, jest
     "extract-text-webpack-plugin": "^3.0.2",
     "jest": "^22.4.2",
     "node-sass": "^4.7.2",
+    "prop-types": "^15.6.1",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-redux": "^5.0.7",
