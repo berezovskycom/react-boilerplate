@@ -5,13 +5,13 @@ import store from '../store';
 import App from '../components/App';
 
 const Root = () => (
-	<Provider store={store}>
-	<BrowserRouter>
-		<Switch>
-			<Route exact path="/" component={App}/>
-		</Switch>
-	</BrowserRouter>
-	</Provider>
+  <Provider store={store}>
+    <BrowserRouter>
+      <Switch>
+        <Route exact path="/" component={App} />
+      </Switch>
+    </BrowserRouter>
+  </Provider>
 );
 
 export default Root;
