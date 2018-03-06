@@ -43,7 +43,7 @@ Nice and clean boilerplate to work with react, redux, jest and eslint
 2. cd react-boilerplate OR cd /renamed_placeholder/
 3. npm install
 4. npm start (to start webpack dev-server)
-5 (optional). You might want to edit your project information in package.json
+5. (optional) You might want to edit your project information in package.json
 
 ### to run production mode, don't forget to remove comments from new webpack.DefinePlugin
 
